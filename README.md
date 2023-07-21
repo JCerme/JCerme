@@ -31,4 +31,4 @@
   <img src="https://jcerme.com/img/skills/Photoshop.svg" height="40px">&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/Wordpress.svg" height="40px">&nbsp;&nbsp;
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcerme)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCerme)](https://github.com/anuraghazra/github-readme-stats)
