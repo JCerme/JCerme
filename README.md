@@ -6,8 +6,11 @@
 
 💻 My ultimate objective is not only to create functional and efficient systems but also to enhance user experience and interaction, ensuring the utmost satisfaction of the end-users.
 
-# Full Stack Software Developer 💯
-<p float="left">
+
+<br/><br/>
+<h1 align="center">Full Stack Software Developer 💯</h1>
+<br/>
+<div align="center" margin="auto">
   <img src="https://jcerme.com/img/skills/HTML5.svg" height="40px">&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/CSS3.svg" height="40px">&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/Bootstrap.svg" height="40px">&nbsp;&nbsp;
@@ -18,7 +21,7 @@
   <img src="https://jcerme.com/img/skills/React.svg" height="40px">&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/JQuery.svg" height="40px">&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/Figma.svg" height="40px">&nbsp;&nbsp;
-  <img src="https://jcerme.com/img/skills/NodeJS.svg" height="40px">&nbsp;&nbsp;
+  <img src="https://jcerme.com/img/skills/NodeJS.svg" height="40px">&nbsp;&nbsp;<br/>
   <img src="https://jcerme.com/img/skills/Java.svg" height="40px">&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/PHP.svg" height="40px">&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/Python.svg" height="40px">&nbsp;&nbsp;
@@ -30,5 +33,11 @@
   <img src="https://jcerme.com/img/skills/Illustrator.svg" height="40px">&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/Photoshop.svg" height="40px">&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/Wordpress.svg" height="40px">&nbsp;&nbsp;
-</p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCerme)
+</div>
+<br/><br/>
+<div align="center" margin="auto">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=Raices-Locales">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=MoviesPlus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=BNDCT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=Backend-Node-Express">
+</div>
