@@ -36,10 +36,10 @@
 </div>
 <br/><br/>
 <div align="center" margin="auto">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=Raices-Locales">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=MoviesPlus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=BNDCT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=Backend-Node-Express">
+  <a href="https://github.com/JCerme/Raices-Locales"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=Raices-Locales"></a>
+  <a href="https://github.com/JCerme/MoviesPlus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=MoviesPlus"></a>
+  <a href="https://github.com/JCerme/BNDCT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=BNDCT"></a>
+  <a href="https://github.com/JCerme/Backend-Node-Express"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=Backend-Node-Express"></a>
 </div>
 
 </br></br>
