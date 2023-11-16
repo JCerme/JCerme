@@ -14,24 +14,26 @@
   <img src="https://jcerme.com/img/skills/HTML5.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/CSS3.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/Bootstrap.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jcerme.com/img/skills/Tailwind.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/SASS.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/Javascript.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/ECMAScript6.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jcerme.com/img/skills/JQuery.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/Typescript.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/React.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jcerme.com/img/skills/JQuery.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/Figma.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jcerme.com/img/skills/NodeJS.svg" height="40px"><br/><br/>
-  <img src="https://jcerme.com/img/skills/Java.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jcerme.com/img/skills/PHP.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jcerme.com/img/skills/Illustrator.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jcerme.com/img/skills/Photoshop.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;<br/><br/>
+  <img src="https://jcerme.com/img/skills/NodeJS.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jcerme.com/img/skills/ExpressJS.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/Python.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jcerme.com/img/skills/PHP.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jcerme.com/img/skills/Java.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/MySQL.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/PostgreSQL.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/MongoDB.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/Git.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/GitHub.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jcerme.com/img/skills/Illustrator.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jcerme.com/img/skills/Photoshop.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://jcerme.com/img/skills/Wordpress.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br/><br/>
