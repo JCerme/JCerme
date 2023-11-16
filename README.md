@@ -36,10 +36,10 @@
 </div>
 <br/><br/>
 <div align="center" margin="auto">
+  <a href="https://github.com/JCerme/BoatPump"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=BoatPump"></a>
   <a href="https://github.com/JCerme/Raices-Locales"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=Raices-Locales"></a>
   <a href="https://github.com/JCerme/MoviesPlus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=MoviesPlus"></a>
-  <a href="https://github.com/JCerme/BNDCT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=BNDCT"></a>
-  <a href="https://github.com/JCerme/Backend-Node-Express"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=Backend-Node-Express"></a>
+  <a href="https://github.com/JCerme/Online-Shop-with-JS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JCerme&repo=Online-Shop-with-JS"></a>
 </div>
 
 </br></br>
